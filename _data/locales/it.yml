@@ -1,4 +1,4 @@
-en:
+it:
   locale_name: Italiano
   nav:
     about: Informazioni
@@ -17,7 +17,7 @@ en:
       button: Contribuisci
     subscribe:
       heading: Rimani in contatto
-      description: Sii il primo a ricevere i più recenti suggerimenti e risorse open source di Github.
+      description: Sii il primo a ricevere i suggerimenti più recenti e le ultime risorse open source di Github.
       label: Indirizzo email
       button: Iscriviti
     byline:
@@ -28,4 +28,4 @@ en:
       # Label for love octicon
       love_label: love
       # Label for the contributors link
-      friends_label: friends
+      friends_label: amici 
